@@ -11,7 +11,7 @@ import SwiftUI
 struct ConanPictureApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ConanView()
         }
     }
 }
